@@ -1,6 +1,6 @@
-import React from "react";
+import React from 'react';
 
-export interface ButtonProps extends React.ComponentPropsWithoutRef<"button"> {
+export interface ButtonProps extends React.ComponentPropsWithoutRef<'button'> {
   text?: string;
 }
 

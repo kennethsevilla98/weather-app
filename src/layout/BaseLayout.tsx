@@ -1,5 +1,5 @@
-import Button from "@/components/commons/ui/Button";
-import React, { PropsWithChildren } from "react";
+import Button from '@/components/commons/ui/Button';
+import React, { PropsWithChildren } from 'react';
 
 export const BaseLayout: React.FC<PropsWithChildren> = ({ children }) => {
   return (
