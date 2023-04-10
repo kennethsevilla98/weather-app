@@ -1,5 +1,16 @@
 ## Getting Started
 
+clone repository then checkout to develop
+
+```bash
+https://github.com/kennethsevilla98/weather-app.git
+or
+git@github.com:kennethsevilla98/weather-app.git
+
+
+git checkout develop
+```
+
 First, rename the env.local.sample to .env.local and add all key needed
 
 .env.local
